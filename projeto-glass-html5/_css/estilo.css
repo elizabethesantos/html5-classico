@@ -252,3 +252,17 @@ footer#rodape a{
 footer#rodape a:hover{
     color:blueviolet;
 }
+
+video#filme {
+    display: block;
+    position:relative;
+    left: 35px ;
+    bottom: 10px;
+    width: 440px;
+}
+
+video#filme1 {
+    display: block;
+    position:relative;
+    width: 350px;
+}
